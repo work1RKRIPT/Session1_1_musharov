@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Сессия1_1\Session1_1\bin\Debug\Session1_1.exe.config
+C:\Users\user\Desktop\Сессия1_1\Session1_1\bin\Debug\Session1_1.exe
+C:\Users\user\Desktop\Сессия1_1\Session1_1\bin\Debug\Session1_1.pdb
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.Main.resources
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.Properties.Resources.resources
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.Tovar.resources
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.exe
+C:\Users\user\Desktop\Сессия1_1\Session1_1\obj\Debug\Session1_1.pdb
